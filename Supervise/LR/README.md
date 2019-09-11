@@ -1,6 +1,6 @@
 # 线性回归
 
-【[html完整版](https://fdujiag.github.io/PyML/Supervise/PLA/)】
+【[html完整版](https://fdujiag.github.io/PyML/Supervise/LR/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
 
@@ -107,6 +107,7 @@ Normal_Equation_Loss 0.0891981661368604
 
 【[返回顶部](#线性回归)】
 
-【[html完整版](https://fdujiag.github.io/PyML/Supervise/PLA/)】
+【[html完整版](https://fdujiag.github.io/PyML/Supervise/LR/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
+
