@@ -62,7 +62,7 @@ def create_data():
 
 <img src="img/Sklearn_Logistic.png" width=350/>
 
-具体示例可详见 【[logistic_regression.ipynb]】
+具体示例可详见 【[logistic_regression.ipynb](https://github.com/FDUJiaG/PyML/blob/master/Supervise/Logistic/logistic_regression.ipynb)】
 
 在自己的测试中，选取 $80\%$ 的样本点为训练集，选取 $20%$ 的点为测试集
 
