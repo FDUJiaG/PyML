@@ -10,7 +10,7 @@
 
  ## 文档
 
-此为监督学习中，线性回归的说明文档，由于github公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/Supervise/PLA/)】
+此为监督学习中，线性回归的说明文档，由于github公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/Supervise/LR/)】
 
 **主要使用的包**
 
@@ -110,4 +110,3 @@ Normal_Equation_Loss 0.0891981661368604
 【[html完整版](https://fdujiag.github.io/PyML/Supervise/LR/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
-
