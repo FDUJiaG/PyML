@@ -1,4 +1,4 @@
-# # Machine Learning Online Class - Exercise 3 | Part 2: Neural Networks
+# # Machine Learning: Neural Networks
 
 #  Instructions
 #  ------------
@@ -11,9 +11,6 @@
 #     oneVsAll.py
 #     predictOneVsAll.py
 #     predict.py
-#
-#  For this exercise, you will not need to change any code in this file,
-#  or any other files other than those mentioned above.
 #
 
 # # Initialization
