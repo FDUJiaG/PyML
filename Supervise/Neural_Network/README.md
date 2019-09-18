@@ -10,7 +10,7 @@
 
  ## 文档
 
-此为监督学习中，线性回归的说明文档，由于 github 公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/Supervise/Neural_Network/)】
+此为监督学习中，神经回归的说明文档，由于 github 公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/Supervise/Neural_Network/)】
 
 **主要使用的包**
 
