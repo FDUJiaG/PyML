@@ -1,4 +1,4 @@
-# # Machine Learning Online Class - Exercise 4 Neural Network Learning
+# # Machine Learning: Neural Network Learning
 
 #  Instructions
 #  ------------
@@ -11,8 +11,6 @@
 #     randInitializeWeights.m
 #     nnCostFunction.m
 #
-#  For this exercise, you will not need to change any code in this file,
-#  or any other files other than those mentioned above.
 #
 
 
