@@ -1,6 +1,6 @@
 # 支持向量机
 
-【[返回支持向量机专题](https://github.com/FDUJiaG/PyML/tree/master/Supervise/SVM)】
+【[html完整版](https://fdujiag.github.io/PyML/Supervise/SVM/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
 
@@ -107,7 +107,7 @@ Training ......................................................................
 
 分类效果
 
-<img src='svm/img/Figure_1.png' width=350 /><img src='svm/img/Figure_2.png' width=350 />
+<img src='SVM/img/Figure_1.png' width=350 /><img src='SVM/img/Figure_2.png' width=350 />
 
 ## 利用高斯核函数训练非线性的 SVM 模型
 
@@ -131,11 +131,11 @@ Training ......................................................................
 
 分类效果
 
-<img src='svm/img/Figure_3.png' width=350 /><img src='svm/img/Figure_4.png' width=350 />
+<img src='SVM/img/Figure_3.png' width=350 /><img src='SVM/img/Figure_4.png' width=350 />
 
 ## SVM 对于有少量异常点的分类效果
 
-   <img src='svm/img/Figure_5.png' width=309 />          <img src='svm/img/Figure_6.png' width=309 /> 
+   <img src='SVM/img/Figure_5.png' width=309 />          <img src='SVM/img/Figure_6.png' width=309 /> 
 
 # 小结
 
@@ -145,6 +145,6 @@ Training ......................................................................
 
 【[返回顶部](#线性回归)】
 
-【[返回支持向量机专题](https://github.com/FDUJiaG/PyML/tree/master/Supervise/SVM)】
+【[html完整版](https://fdujiag.github.io/PyML/Supervise/SVM/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
