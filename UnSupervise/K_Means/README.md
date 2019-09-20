@@ -1,6 +1,6 @@
 # K-Means
 
-【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/KMeans/)】
+【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/K_Means/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
 
@@ -8,7 +8,7 @@
 
  ## 文档
 
-此为非监督学习中，K-Means 的说明文档，由于 github 公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/KMeans/)】
+此为非监督学习中，K-Means 的说明文档，由于 github 公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/K_Means/)】
 
 **主要使用的包**
 
@@ -98,6 +98,6 @@ K-Means的原理是很简单，但是我们仔细想想我们处理 K-Means 的�
 
 【[返回顶部](#线性回归)】
 
-【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/KMeans/)】
+【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/K_Means/)】
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
