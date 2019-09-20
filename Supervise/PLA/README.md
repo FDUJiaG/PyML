@@ -4,8 +4,6 @@
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
 
-[TOC]
-
 # 说明
 
  ## 文档
@@ -34,7 +32,7 @@ PLA全称是Perceptron Linear Algorithm，即线性感知机算法，属于一�
 
 假设训练数据集是线性可分的，感知机学习的目标是求得一个能够将训练数据集**正实例点和负实例点完全正确分开的分离超平面**。如果是非线性可分的数据，则最后无法获得超平面
 
-<img src="https://note.youdao.com/yws/api/personal/file/WEB393a13769317374240437edb5e1d3b26?method=download&shareKey=4ee69663a8d0565951fda86a78c292a1" alt="image" width=550 />
+<img src="https://note.youdao.com/yws/api/personal/file/WEB393a13769317374240437edb5e1d3b26?method=download&shareKey=4ee69663a8d0565951fda86a78c292a1" alt="image" style="zoom:50%;" />
 
 # 训练过程
 
