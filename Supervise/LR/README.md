@@ -4,8 +4,6 @@
 
 【[返回主仓](https://github.com/FDUJiaG/PyML)】
 
-[TOC]
-
 # 说明
 
  ## 文档
