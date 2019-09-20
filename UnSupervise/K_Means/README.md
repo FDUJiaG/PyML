@@ -8,7 +8,7 @@
 
  ## 文档
 
-此为非监督学习中，非的说明文档，由于 github 公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/KMeans/)】
+此为非监督学习中，K-Means 的说明文档，由于 github 公式限制，建议阅读【[html完整版](https://fdujiag.github.io/PyML/UnSupervise/KMeans/)】
 
 **主要使用的包**
 
